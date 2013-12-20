@@ -13,3 +13,5 @@ lottery
 	* 4 -- 感恩奖15名：华东单日游
 	* CTRL + DELETE -- 清空所有抽奖
 * 其中感恩奖，为了节省按空格的次数  --  抽奖暂停时，会间隔2s抽出5个。
+* 奖项保存window.localStorage
+* 建议用webkit游览器
