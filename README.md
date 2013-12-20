@@ -15,3 +15,5 @@ lottery
 * 其中感恩奖，为了节省按空格的次数  --  抽奖暂停时，会间隔2s抽出5个。
 * 奖项保存window.localStorage
 * 建议用webkit游览器
+
+[![lottery preview](http://jschyz.github.io/img/preview.jpg)]
